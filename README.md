@@ -19,7 +19,7 @@ Generated Source Code (generated_calculator.py)
 Automated Testing (pytest)
         ↓
 Validation through GitHub Actions
-
+```
 
 ### Practical Implementation Details
 

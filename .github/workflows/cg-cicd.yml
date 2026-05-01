@@ -3,6 +3,7 @@ name: CG-CI-CD Prototype
 on:
   push:
   pull_request:
+   workflow_dispatch:
 
 jobs:
   generate-and-test:
